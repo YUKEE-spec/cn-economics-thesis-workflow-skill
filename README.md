@@ -162,45 +162,6 @@ cn-economics-thesis-workflow-skill/
 
 ---
 
-## 传播素材（小红书 / 公众号）
-
-| 用途 | 文件 | 比例 |
-| --- | --- | --- |
-| GitHub / 公众号头图 | [`assets/thesis-workflow-infographic.png`](assets/thesis-workflow-infographic.png) | 16:9 |
-| 小红书 / 朋友圈 | [`assets/thesis-workflow-xiaohongshu.png`](assets/thesis-workflow-xiaohongshu.png) | 9:16 |
-
-<p align="center">
-  <img src="assets/thesis-workflow-xiaohongshu.png" alt="经济学论文工作流 小红书竖版" width="280">
-</p>
-
-**标题建议**
-
-- 不用 Stata 也能写实证论文？这个 Agent Skill 用 Python 跑完全流程
-- 经管论文 9 阶段教练：选题到 Word 成文
-- Cursor / Codex 都能装的经济学论文工作流
-
-**正文模板**
-
-```text
-安利一个经济学实证论文 Agent Skill：cn-economics-thesis-workflow-skill
-
-✅ 9 个 Phase 逐步确认，不会 AI 胡编回归系数
-✅ Python 全栈：statsmodels + linearmodels，不用 Stata
-✅ 脚本落盘可复现，output/tables 出 CSV 回归表
-✅ Cursor / Codex / WorkBuddy 都能装
-
-安装：git clone 到对应平台 skills 目录
-调用：从 Phase 0 开始，说明 Y/X 和数据情况
-
-开源 MIT，fork 自 ZehChou 原版
-```
-
-**标签**
-
-`#经济学论文` `#实证分析` `#计量经济学` `#AgentSkill` `#Python` `#毕业论文` `#经管` `#Cursor` `#Codex`
-
----
-
 ## 致谢
 
 - [ZehChou/cn-economics-thesis-workflow-skill](https://github.com/ZehChou/cn-economics-thesis-workflow-skill)
