@@ -1,0 +1,20 @@
+{
+  "$schema": "https://opencode.ai/schemas/opencode.json",
+  /**
+   * cn-economics-thesis-workflow-skill 示例配置（Python 计量版 v2.0）
+   *
+   * 合并到项目根目录 opencode.jsonc，或复制 skills 数组。
+   * Phase 4-8：Python（statsmodels / linearmodels），无需 Stata。
+   */
+  "skills": [
+    /**
+     * 方式一：本地路径（Cursor / Codex / OpenCode 通用）
+     */
+    "file:~/.cursor/skills/cn-economics-thesis-workflow-skill/SKILL.md"
+
+    /**
+     * 方式二：GitHub（替换为你的 fork）
+     */
+    // "github:<YOUR_USERNAME>/cn-economics-thesis-workflow-skill"
+  ]
+}
